@@ -1,0 +1,22 @@
+{
+  "name": "GitHub Repo Manager",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "github-branch-manager",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "7f2f09a9-275c-43a3-8e1f-14fc85f9f2a4",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [0, 368],
+      "webhookId": "869d44df-e0ac-4a67-be90-b59fc1429a65"
+    }
+  ],
+  "connections": {},
+  "active": false,
+  "id": "wkJ17jrG2oyvughP"
+}
